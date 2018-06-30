@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    background-color: #48647c;
+    color: white;
+}
+
+header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.image-grid-container {
+    display: flex;
+    justify-content: center;
+}
+
+.image-grid {
+    width: 900px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.image-grid-item {
+    width: 280px;
+    height: 260px;
+}
+img {
+    width: 280px;
+    height: 260px;
+}
