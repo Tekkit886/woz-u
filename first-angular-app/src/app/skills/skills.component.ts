@@ -1,4 +1,8 @@
 import { Component, OnInit } from '@angular/core';
+import { Skills } from '../models/skills';
+import { Level } from '../types/level.enum';
+
+import { SkillsService } from '../services/skills.service';
 
 @Component({
   selector: 'app-skills',
@@ -6,10 +10,15 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./skills.component.css']
 })
 export class SkillsComponent implements OnInit {
-  skills = ['Ruby on rails', 'HTML', 'CSS', 'Prototyping'];
-  constructor() { }
+  skills: Skills[];
+  dataService: SkillsService;
 
-  ngOnInit() {
+  constructor(private skillsService: SkillsService) {
+    this.skills = skillsService.skills;
+   }
+
+  ngOnInit(): void {
+    this.dataService.getSkills().subscribe(skills => this.skills =skills);
   }
 
 }
