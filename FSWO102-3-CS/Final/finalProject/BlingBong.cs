@@ -2,26 +2,30 @@ using System;
 
 namespace blingbong
 {
-    class counter
+    class partOne
     {
-        static void Main(string[] args)
+       public static void Counter(string[] args)
         {
-            int a, b, i, Sum = 0;
-            for (i = 1; i < 100; i++)
+            int a, b, i, Sum = 1;
+            
+           for (i = 1; i < 100; i++)
             {
                 a = i % 3;
                 b = i % 5;
-                if (a == 0)
+                Console.WriteLine(Sum);
+                if (Sum == a)
                 {
                     Console.WriteLine("Bling");
                 }
-                if (b == 0)
-                { 
+                else if (Sum == b)
+                {
                     Console.WriteLine("Bong");
                 }
+                else
+                {
+                    Console.WriteLine(Sum);
+                }
             }
-
-            
         }
     }
 }

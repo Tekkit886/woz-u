@@ -2,3 +2,10 @@ D:\School\woz-u\FSWO102-3-CS\Final\finalProject\obj\Debug\netcoreapp2.1\finalPro
 D:\School\woz-u\FSWO102-3-CS\Final\finalProject\obj\Debug\netcoreapp2.1\finalProject.csproj.CoreCompileInputs.cache
 D:\School\woz-u\FSWO102-3-CS\Final\finalProject\obj\Debug\netcoreapp2.1\finalProject.AssemblyInfoInputs.cache
 D:\School\woz-u\FSWO102-3-CS\Final\finalProject\obj\Debug\netcoreapp2.1\finalProject.AssemblyInfo.cs
+D:\School\woz-u\FSWO102-3-CS\Final\finalProject\bin\Debug\netcoreapp2.1\finalProject.deps.json
+D:\School\woz-u\FSWO102-3-CS\Final\finalProject\bin\Debug\netcoreapp2.1\finalProject.runtimeconfig.json
+D:\School\woz-u\FSWO102-3-CS\Final\finalProject\bin\Debug\netcoreapp2.1\finalProject.runtimeconfig.dev.json
+D:\School\woz-u\FSWO102-3-CS\Final\finalProject\bin\Debug\netcoreapp2.1\finalProject.dll
+D:\School\woz-u\FSWO102-3-CS\Final\finalProject\bin\Debug\netcoreapp2.1\finalProject.pdb
+D:\School\woz-u\FSWO102-3-CS\Final\finalProject\obj\Debug\netcoreapp2.1\finalProject.dll
+D:\School\woz-u\FSWO102-3-CS\Final\finalProject\obj\Debug\netcoreapp2.1\finalProject.pdb
