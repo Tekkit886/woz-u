@@ -1,0 +1,4 @@
+D:\School\woz-u\FSWO102-3-CS\Lesson 6\HandsOnLesson6\obj\Debug\netcoreapp2.1\HandsOnLesson6.csprojAssemblyReference.cache
+D:\School\woz-u\FSWO102-3-CS\Lesson 6\HandsOnLesson6\obj\Debug\netcoreapp2.1\HandsOnLesson6.csproj.CoreCompileInputs.cache
+D:\School\woz-u\FSWO102-3-CS\Lesson 6\HandsOnLesson6\obj\Debug\netcoreapp2.1\HandsOnLesson6.AssemblyInfoInputs.cache
+D:\School\woz-u\FSWO102-3-CS\Lesson 6\HandsOnLesson6\obj\Debug\netcoreapp2.1\HandsOnLesson6.AssemblyInfo.cs

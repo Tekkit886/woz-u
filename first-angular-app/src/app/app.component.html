@@ -1,21 +1,25 @@
-<!--The content below is only a placeholder and can be replaced.-->
-<div style="text-align:center">
-  <h1>
-    Welcome to {{ title }}!
-  </h1>
-  <h2>
-    Current Location {{ city }}
-  </h2>
-  <h2>
-    {{ tag }}
-  </h2>
-  <p>
-    {{ about }}
-  </p>
-  <app-greeting></app-greeting>
-  <app-skills></app-skills>
-  <app-contacts></app-contacts>
+<div id="header">
+    <nav>
+        <a class="btn" routerLink="greeting" routerLinkActive="active">Home</a>
+        <a class="btn" routerLink="skills" routerLinkActive="active">Skills</a>
+        <a class="btn" routerLink="contact" routerLinkActive="active">Contact</a>
+        <a class="btn" routerLink="movies" routerLinkActive="active">Movies</a>
+        <a class="btn" routerLink="music" routerLinkActive="active">Music</a>
+      </nav>
+
+        <h1>
+          Welcome to {{ title }}!
+        </h1>
+        <h2>
+          Current Location: {{ city }}
+        </h2>
+        <h2>
+          {{ tag }}
+        </h2>
+        <p>
+          {{ about }}
+        </p>
   </div>
-  <app-contact-form></app-contact-form>
+  <router-outlet></router-outlet>
 
 

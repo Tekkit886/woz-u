@@ -1,0 +1,11 @@
+<div class="music">
+    <h2>
+      Music:
+    </h2>
+    <ul>
+      <li *ngFor="let music of music">
+        <p>{{music.id + 1}}. {{music.title}}. {{music.artist}}: {{music.director}}</p>
+        <img [src]='music.image_url' />
+      </li>
+    </ul>
+  </div>

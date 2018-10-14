@@ -1,0 +1,11 @@
+D:\School\woz-u\FSWO102-3-CS\Lesson 1\Lesson1HandsOn\obj\Debug\netcoreapp2.1\newApp.csprojAssemblyReference.cache
+D:\School\woz-u\FSWO102-3-CS\Lesson 1\Lesson1HandsOn\obj\Debug\netcoreapp2.1\newApp.csproj.CoreCompileInputs.cache
+D:\School\woz-u\FSWO102-3-CS\Lesson 1\Lesson1HandsOn\obj\Debug\netcoreapp2.1\newApp.AssemblyInfoInputs.cache
+D:\School\woz-u\FSWO102-3-CS\Lesson 1\Lesson1HandsOn\obj\Debug\netcoreapp2.1\newApp.AssemblyInfo.cs
+D:\School\woz-u\FSWO102-3-CS\Lesson 1\Lesson1HandsOn\bin\Debug\netcoreapp2.1\newApp.deps.json
+D:\School\woz-u\FSWO102-3-CS\Lesson 1\Lesson1HandsOn\bin\Debug\netcoreapp2.1\newApp.runtimeconfig.json
+D:\School\woz-u\FSWO102-3-CS\Lesson 1\Lesson1HandsOn\bin\Debug\netcoreapp2.1\newApp.runtimeconfig.dev.json
+D:\School\woz-u\FSWO102-3-CS\Lesson 1\Lesson1HandsOn\bin\Debug\netcoreapp2.1\newApp.dll
+D:\School\woz-u\FSWO102-3-CS\Lesson 1\Lesson1HandsOn\bin\Debug\netcoreapp2.1\newApp.pdb
+D:\School\woz-u\FSWO102-3-CS\Lesson 1\Lesson1HandsOn\obj\Debug\netcoreapp2.1\newApp.dll
+D:\School\woz-u\FSWO102-3-CS\Lesson 1\Lesson1HandsOn\obj\Debug\netcoreapp2.1\newApp.pdb

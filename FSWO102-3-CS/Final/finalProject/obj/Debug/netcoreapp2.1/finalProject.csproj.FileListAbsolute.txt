@@ -1,0 +1,4 @@
+D:\School\woz-u\FSWO102-3-CS\Final\finalProject\obj\Debug\netcoreapp2.1\finalProject.csprojAssemblyReference.cache
+D:\School\woz-u\FSWO102-3-CS\Final\finalProject\obj\Debug\netcoreapp2.1\finalProject.csproj.CoreCompileInputs.cache
+D:\School\woz-u\FSWO102-3-CS\Final\finalProject\obj\Debug\netcoreapp2.1\finalProject.AssemblyInfoInputs.cache
+D:\School\woz-u\FSWO102-3-CS\Final\finalProject\obj\Debug\netcoreapp2.1\finalProject.AssemblyInfo.cs
