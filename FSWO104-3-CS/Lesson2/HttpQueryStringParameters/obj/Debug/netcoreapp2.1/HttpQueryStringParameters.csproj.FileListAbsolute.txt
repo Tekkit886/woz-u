@@ -1,0 +1,14 @@
+D:\School\woz-u\FSWO104-3-CS\Lesson2\HttpQueryStringParameters\bin\Debug\netcoreapp2.1\HttpQueryStringParameters.deps.json
+D:\School\woz-u\FSWO104-3-CS\Lesson2\HttpQueryStringParameters\bin\Debug\netcoreapp2.1\HttpQueryStringParameters.runtimeconfig.json
+D:\School\woz-u\FSWO104-3-CS\Lesson2\HttpQueryStringParameters\bin\Debug\netcoreapp2.1\HttpQueryStringParameters.runtimeconfig.dev.json
+D:\School\woz-u\FSWO104-3-CS\Lesson2\HttpQueryStringParameters\bin\Debug\netcoreapp2.1\HttpQueryStringParameters.dll
+D:\School\woz-u\FSWO104-3-CS\Lesson2\HttpQueryStringParameters\bin\Debug\netcoreapp2.1\HttpQueryStringParameters.pdb
+D:\School\woz-u\FSWO104-3-CS\Lesson2\HttpQueryStringParameters\obj\Debug\netcoreapp2.1\HttpQueryStringParameters.csprojAssemblyReference.cache
+D:\School\woz-u\FSWO104-3-CS\Lesson2\HttpQueryStringParameters\obj\Debug\netcoreapp2.1\HttpQueryStringParameters.csproj.CoreCompileInputs.cache
+D:\School\woz-u\FSWO104-3-CS\Lesson2\HttpQueryStringParameters\obj\Debug\netcoreapp2.1\HttpQueryStringParameters.RazorAssemblyInfo.cache
+D:\School\woz-u\FSWO104-3-CS\Lesson2\HttpQueryStringParameters\obj\Debug\netcoreapp2.1\HttpQueryStringParameters.RazorAssemblyInfo.cs
+D:\School\woz-u\FSWO104-3-CS\Lesson2\HttpQueryStringParameters\obj\Debug\netcoreapp2.1\HttpQueryStringParameters.AssemblyInfoInputs.cache
+D:\School\woz-u\FSWO104-3-CS\Lesson2\HttpQueryStringParameters\obj\Debug\netcoreapp2.1\HttpQueryStringParameters.AssemblyInfo.cs
+D:\School\woz-u\FSWO104-3-CS\Lesson2\HttpQueryStringParameters\obj\Debug\netcoreapp2.1\HttpQueryStringParameters.RazorTargetAssemblyInfo.cache
+D:\School\woz-u\FSWO104-3-CS\Lesson2\HttpQueryStringParameters\obj\Debug\netcoreapp2.1\HttpQueryStringParameters.dll
+D:\School\woz-u\FSWO104-3-CS\Lesson2\HttpQueryStringParameters\obj\Debug\netcoreapp2.1\HttpQueryStringParameters.pdb

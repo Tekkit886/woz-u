@@ -1,0 +1,14 @@
+D:\School\woz-u\FSWO104-3-CS\Lesson2\HttpRequestHeaaders\bin\Debug\netcoreapp2.1\HttpRequestHeaaders.deps.json
+D:\School\woz-u\FSWO104-3-CS\Lesson2\HttpRequestHeaaders\bin\Debug\netcoreapp2.1\HttpRequestHeaaders.runtimeconfig.json
+D:\School\woz-u\FSWO104-3-CS\Lesson2\HttpRequestHeaaders\bin\Debug\netcoreapp2.1\HttpRequestHeaaders.runtimeconfig.dev.json
+D:\School\woz-u\FSWO104-3-CS\Lesson2\HttpRequestHeaaders\bin\Debug\netcoreapp2.1\HttpRequestHeaaders.dll
+D:\School\woz-u\FSWO104-3-CS\Lesson2\HttpRequestHeaaders\bin\Debug\netcoreapp2.1\HttpRequestHeaaders.pdb
+D:\School\woz-u\FSWO104-3-CS\Lesson2\HttpRequestHeaaders\obj\Debug\netcoreapp2.1\HttpRequestHeaaders.csprojAssemblyReference.cache
+D:\School\woz-u\FSWO104-3-CS\Lesson2\HttpRequestHeaaders\obj\Debug\netcoreapp2.1\HttpRequestHeaaders.csproj.CoreCompileInputs.cache
+D:\School\woz-u\FSWO104-3-CS\Lesson2\HttpRequestHeaaders\obj\Debug\netcoreapp2.1\HttpRequestHeaaders.RazorAssemblyInfo.cache
+D:\School\woz-u\FSWO104-3-CS\Lesson2\HttpRequestHeaaders\obj\Debug\netcoreapp2.1\HttpRequestHeaaders.RazorAssemblyInfo.cs
+D:\School\woz-u\FSWO104-3-CS\Lesson2\HttpRequestHeaaders\obj\Debug\netcoreapp2.1\HttpRequestHeaaders.AssemblyInfoInputs.cache
+D:\School\woz-u\FSWO104-3-CS\Lesson2\HttpRequestHeaaders\obj\Debug\netcoreapp2.1\HttpRequestHeaaders.AssemblyInfo.cs
+D:\School\woz-u\FSWO104-3-CS\Lesson2\HttpRequestHeaaders\obj\Debug\netcoreapp2.1\HttpRequestHeaaders.RazorTargetAssemblyInfo.cache
+D:\School\woz-u\FSWO104-3-CS\Lesson2\HttpRequestHeaaders\obj\Debug\netcoreapp2.1\HttpRequestHeaaders.dll
+D:\School\woz-u\FSWO104-3-CS\Lesson2\HttpRequestHeaaders\obj\Debug\netcoreapp2.1\HttpRequestHeaaders.pdb

@@ -1,0 +1,14 @@
+D:\School\woz-u\FSWO104-3-CS\Lesson2\HttpCookies\bin\Debug\netcoreapp2.1\HttpCookies.deps.json
+D:\School\woz-u\FSWO104-3-CS\Lesson2\HttpCookies\bin\Debug\netcoreapp2.1\HttpCookies.runtimeconfig.json
+D:\School\woz-u\FSWO104-3-CS\Lesson2\HttpCookies\bin\Debug\netcoreapp2.1\HttpCookies.runtimeconfig.dev.json
+D:\School\woz-u\FSWO104-3-CS\Lesson2\HttpCookies\bin\Debug\netcoreapp2.1\HttpCookies.dll
+D:\School\woz-u\FSWO104-3-CS\Lesson2\HttpCookies\bin\Debug\netcoreapp2.1\HttpCookies.pdb
+D:\School\woz-u\FSWO104-3-CS\Lesson2\HttpCookies\obj\Debug\netcoreapp2.1\HttpCookies.csprojAssemblyReference.cache
+D:\School\woz-u\FSWO104-3-CS\Lesson2\HttpCookies\obj\Debug\netcoreapp2.1\HttpCookies.csproj.CoreCompileInputs.cache
+D:\School\woz-u\FSWO104-3-CS\Lesson2\HttpCookies\obj\Debug\netcoreapp2.1\HttpCookies.RazorAssemblyInfo.cache
+D:\School\woz-u\FSWO104-3-CS\Lesson2\HttpCookies\obj\Debug\netcoreapp2.1\HttpCookies.RazorAssemblyInfo.cs
+D:\School\woz-u\FSWO104-3-CS\Lesson2\HttpCookies\obj\Debug\netcoreapp2.1\HttpCookies.AssemblyInfoInputs.cache
+D:\School\woz-u\FSWO104-3-CS\Lesson2\HttpCookies\obj\Debug\netcoreapp2.1\HttpCookies.AssemblyInfo.cs
+D:\School\woz-u\FSWO104-3-CS\Lesson2\HttpCookies\obj\Debug\netcoreapp2.1\HttpCookies.RazorTargetAssemblyInfo.cache
+D:\School\woz-u\FSWO104-3-CS\Lesson2\HttpCookies\obj\Debug\netcoreapp2.1\HttpCookies.dll
+D:\School\woz-u\FSWO104-3-CS\Lesson2\HttpCookies\obj\Debug\netcoreapp2.1\HttpCookies.pdb
