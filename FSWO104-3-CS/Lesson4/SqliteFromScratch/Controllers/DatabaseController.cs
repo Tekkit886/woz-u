@@ -13,32 +13,54 @@ namespace SqliteFromScratch.Controllers {
         // api/database
         [HttpGet]
         // change return type of GetData to List<Track>.
-        public string GetData() {
+        public List<Track> GetData() {
 
             // tracks will be populated with the result of the query.
+            List<Track> tracks = new List<Track>();
 
             // GetFullPath will complete the path for the file named passed in as a string.
+            string dataSource = "Data Source=" + Path.GetFullPath("chinook.db");
 
-            // Initialize the connection to the .db file.
+            // using will make sure that the resource is cleaned from memory after it exists
+            // conn inittializes the connection to the .db file.
+            using(SqliteConnection conn = new SqliteConnection(dataSource)) {
 
-                // create a string to hold the SQL command.
+                conn.Open();
 
-                // create a new SQL command by combining the location and command string.
+                // sql is the string that will be run as an sql command
+                string sql = $"select * from tracks limit 200;";
 
-                    // read each value that comes back from the query and do something to it.
+                // command combines the connection and the command string and creates the query
+                using(SqliteCommand command = new SqliteCommand(sql, conn)) {
 
-                    // Loop through query exit when no more objects are left.
+                    // reader allows us to read each value that comes back and do something to it.
+                    using(SqliteDataReader reader = command.ExecuteReader()) {
 
-                    // map the data to the Track model.
+                        // Read returns true while there are more rows to advance to. then false when done.
+                        while (reader.Read()) {
 
-                            // add each track to the list of tracks.
-
+                            // map the data to our model.
+                            Track newTrack = new Track() {
+                                Id = reader.GetInt32(0),
+                                Name = reader.GetString(1),
+                                AlbumId = reader.GetInt32(2),
+                                MediaTypeId = reader.GetInt32(3),
+                                GenreId = reader.GetInt32(4),
+                                Composer = reader.GetValue(5).ToString(),
+                                Milliseconds = reader.GetInt32(6),
+                                Bytes = reader.GetInt32(7),
+                                UnitPrice = reader.GetInt32(8)
+                            };
+                            // add each one to the list.
+                            tracks.Add(newTrack);
                         }
                     }
                 }
-                // close the connection
+                conn.Close();
             }
-            return "We need data!";
+            return tracks;
         }
+
+
     }
 }
