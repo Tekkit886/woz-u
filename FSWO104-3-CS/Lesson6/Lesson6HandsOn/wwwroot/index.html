@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>WebAPI and Jquery</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            // when the button is clicked the values entered are gathered and inserted
+            // into the string that will be the url route.
+            $("button").click(function () {
+                var year = $("#year").val() || 0;
+                var make = $("#make").val() || 0;
+                var model = $("#model").val() || 0;
+                var numofpass = $("#numofpass").val() || 0;
+                var url = "api/car/add/" + make + model + numofpass;
+
+                // the get method takes the route and then has a function waiting
+                // for the response which will take the data and insert it into the HTML.
+                $.get(url, function (data) {
+                    $("#result").text(data);
+                });
+            });
+        });
+    </script>
+</head>
+
+<body>
+    <h1>Car</h1>
+
+    <p>Enter Year:
+        <input type="number" id="year" value="">
+    </p>
+    <p>Enter Make:
+        <input type="text" id="make" value="">
+    </p>
+    <p>Enter Model:
+        <input type="text" id="model" value="">
+    </p>
+    <p>Enter Number of Passengers:
+        <input type="text" id="numofpass" value="">
+    </p>
+    <button>Add</button>
+    <p>Result:
+        <span id="result"></span>
+    </p>
+
+</body>
+
+</html>
