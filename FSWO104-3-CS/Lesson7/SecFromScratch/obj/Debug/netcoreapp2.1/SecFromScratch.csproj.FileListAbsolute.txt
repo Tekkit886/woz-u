@@ -1,0 +1,6 @@
+D:\School\woz-u\FSWO104-3-CS\Lesson7\SecFromScratch\obj\Debug\netcoreapp2.1\SecFromScratch.csprojAssemblyReference.cache
+D:\School\woz-u\FSWO104-3-CS\Lesson7\SecFromScratch\obj\Debug\netcoreapp2.1\SecFromScratch.csproj.CoreCompileInputs.cache
+D:\School\woz-u\FSWO104-3-CS\Lesson7\SecFromScratch\obj\Debug\netcoreapp2.1\SecFromScratch.RazorAssemblyInfo.cache
+D:\School\woz-u\FSWO104-3-CS\Lesson7\SecFromScratch\obj\Debug\netcoreapp2.1\SecFromScratch.RazorAssemblyInfo.cs
+D:\School\woz-u\FSWO104-3-CS\Lesson7\SecFromScratch\obj\Debug\netcoreapp2.1\SecFromScratch.AssemblyInfoInputs.cache
+D:\School\woz-u\FSWO104-3-CS\Lesson7\SecFromScratch\obj\Debug\netcoreapp2.1\SecFromScratch.AssemblyInfo.cs

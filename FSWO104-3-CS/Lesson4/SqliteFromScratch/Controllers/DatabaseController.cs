@@ -13,16 +13,30 @@ namespace SqliteFromScratch.Controllers {
         // api/database
         [HttpGet]
         // change return type of GetData to List<Track>.
+<<<<<<< HEAD
             public List<Track> GetData() {
 
             List<Track> tracks = new List<Track>();
 
             string dataSource = "Data Source=" + Path.GetFullPath("chinook.db");
 
+=======
+        public List<Track> GetData() {
+
+            // tracks will be populated with the result of the query.
+            List<Track> tracks = new List<Track>();
+
+            // GetFullPath will complete the path for the file named passed in as a string.
+            string dataSource = "Data Source=" + Path.GetFullPath("chinook.db");
+
+            // using will make sure that the resource is cleaned from memory after it exists
+            // conn inittializes the connection to the .db file.
+>>>>>>> 653fc5c28ca00ad6f88f1d487c9e48608dff4b27
             using(SqliteConnection conn = new SqliteConnection(dataSource)) {
 
                 conn.Open();
 
+<<<<<<< HEAD
                 string sql = $"select * from tracks limit 200;";
 
                 using(SqliteCommand command = new SqliteCommand(sql, conn)) {
@@ -45,12 +59,41 @@ namespace SqliteFromScratch.Controllers {
 
                     // add each one to the list.
                     tracks.Add(newTrack);
+=======
+                // sql is the string that will be run as an sql command
+                string sql = $"select * from tracks limit 200;";
+
+                // command combines the connection and the command string and creates the query
+                using(SqliteCommand command = new SqliteCommand(sql, conn)) {
+
+                    // reader allows us to read each value that comes back and do something to it.
+                    using(SqliteDataReader reader = command.ExecuteReader()) {
+
+                        // Read returns true while there are more rows to advance to. then false when done.
+                        while (reader.Read()) {
+
+                            // map the data to our model.
+                            Track newTrack = new Track() {
+                                Id = reader.GetInt32(0),
+                                Name = reader.GetString(1),
+                                AlbumId = reader.GetInt32(2),
+                                MediaTypeId = reader.GetInt32(3),
+                                GenreId = reader.GetInt32(4),
+                                Composer = reader.GetValue(5).ToString(),
+                                Milliseconds = reader.GetInt32(6),
+                                Bytes = reader.GetInt32(7),
+                                UnitPrice = reader.GetInt32(8)
+                            };
+                            // add each one to the list.
+                            tracks.Add(newTrack);
+>>>>>>> 653fc5c28ca00ad6f88f1d487c9e48608dff4b27
                         }
                     }
                 }
                 conn.Close();
             }
             return tracks;
+<<<<<<< HEAD
             }
 
         public List<Customers> GetData() {
@@ -136,6 +179,10 @@ namespace SqliteFromScratch.Controllers {
             }
             return employees;
         }
+=======
+        }
+
+>>>>>>> 653fc5c28ca00ad6f88f1d487c9e48608dff4b27
 
     }
 

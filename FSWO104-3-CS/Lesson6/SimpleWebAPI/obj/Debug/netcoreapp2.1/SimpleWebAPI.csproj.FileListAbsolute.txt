@@ -1,0 +1,14 @@
+D:\School\woz-u\FSWO104-3-CS\Lesson6\SimpleWebAPI\bin\Debug\netcoreapp2.1\SimpleWebAPI.deps.json
+D:\School\woz-u\FSWO104-3-CS\Lesson6\SimpleWebAPI\bin\Debug\netcoreapp2.1\SimpleWebAPI.runtimeconfig.json
+D:\School\woz-u\FSWO104-3-CS\Lesson6\SimpleWebAPI\bin\Debug\netcoreapp2.1\SimpleWebAPI.runtimeconfig.dev.json
+D:\School\woz-u\FSWO104-3-CS\Lesson6\SimpleWebAPI\bin\Debug\netcoreapp2.1\SimpleWebAPI.dll
+D:\School\woz-u\FSWO104-3-CS\Lesson6\SimpleWebAPI\bin\Debug\netcoreapp2.1\SimpleWebAPI.pdb
+D:\School\woz-u\FSWO104-3-CS\Lesson6\SimpleWebAPI\obj\Debug\netcoreapp2.1\SimpleWebAPI.csprojAssemblyReference.cache
+D:\School\woz-u\FSWO104-3-CS\Lesson6\SimpleWebAPI\obj\Debug\netcoreapp2.1\SimpleWebAPI.csproj.CoreCompileInputs.cache
+D:\School\woz-u\FSWO104-3-CS\Lesson6\SimpleWebAPI\obj\Debug\netcoreapp2.1\SimpleWebAPI.RazorAssemblyInfo.cache
+D:\School\woz-u\FSWO104-3-CS\Lesson6\SimpleWebAPI\obj\Debug\netcoreapp2.1\SimpleWebAPI.RazorAssemblyInfo.cs
+D:\School\woz-u\FSWO104-3-CS\Lesson6\SimpleWebAPI\obj\Debug\netcoreapp2.1\SimpleWebAPI.AssemblyInfoInputs.cache
+D:\School\woz-u\FSWO104-3-CS\Lesson6\SimpleWebAPI\obj\Debug\netcoreapp2.1\SimpleWebAPI.AssemblyInfo.cs
+D:\School\woz-u\FSWO104-3-CS\Lesson6\SimpleWebAPI\obj\Debug\netcoreapp2.1\SimpleWebAPI.RazorTargetAssemblyInfo.cache
+D:\School\woz-u\FSWO104-3-CS\Lesson6\SimpleWebAPI\obj\Debug\netcoreapp2.1\SimpleWebAPI.dll
+D:\School\woz-u\FSWO104-3-CS\Lesson6\SimpleWebAPI\obj\Debug\netcoreapp2.1\SimpleWebAPI.pdb

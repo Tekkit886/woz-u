@@ -1,0 +1,14 @@
+D:\School\woz-u\FSWO104-3-CS\Lesson8\BackendApplication\bin\Debug\netcoreapp2.1\BackendApplication.deps.json
+D:\School\woz-u\FSWO104-3-CS\Lesson8\BackendApplication\bin\Debug\netcoreapp2.1\BackendApplication.runtimeconfig.json
+D:\School\woz-u\FSWO104-3-CS\Lesson8\BackendApplication\bin\Debug\netcoreapp2.1\BackendApplication.runtimeconfig.dev.json
+D:\School\woz-u\FSWO104-3-CS\Lesson8\BackendApplication\bin\Debug\netcoreapp2.1\BackendApplication.dll
+D:\School\woz-u\FSWO104-3-CS\Lesson8\BackendApplication\bin\Debug\netcoreapp2.1\BackendApplication.pdb
+D:\School\woz-u\FSWO104-3-CS\Lesson8\BackendApplication\obj\Debug\netcoreapp2.1\BackendApplication.csprojAssemblyReference.cache
+D:\School\woz-u\FSWO104-3-CS\Lesson8\BackendApplication\obj\Debug\netcoreapp2.1\BackendApplication.csproj.CoreCompileInputs.cache
+D:\School\woz-u\FSWO104-3-CS\Lesson8\BackendApplication\obj\Debug\netcoreapp2.1\BackendApplication.RazorAssemblyInfo.cache
+D:\School\woz-u\FSWO104-3-CS\Lesson8\BackendApplication\obj\Debug\netcoreapp2.1\BackendApplication.RazorAssemblyInfo.cs
+D:\School\woz-u\FSWO104-3-CS\Lesson8\BackendApplication\obj\Debug\netcoreapp2.1\BackendApplication.AssemblyInfoInputs.cache
+D:\School\woz-u\FSWO104-3-CS\Lesson8\BackendApplication\obj\Debug\netcoreapp2.1\BackendApplication.AssemblyInfo.cs
+D:\School\woz-u\FSWO104-3-CS\Lesson8\BackendApplication\obj\Debug\netcoreapp2.1\BackendApplication.RazorTargetAssemblyInfo.cache
+D:\School\woz-u\FSWO104-3-CS\Lesson8\BackendApplication\obj\Debug\netcoreapp2.1\BackendApplication.dll
+D:\School\woz-u\FSWO104-3-CS\Lesson8\BackendApplication\obj\Debug\netcoreapp2.1\BackendApplication.pdb
